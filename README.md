@@ -2,6 +2,13 @@
 
 A fictional student dataset generated with Python.
 
+## Student Details
+- **Name:** IBIZUGBE MICHAEL GREGORY
+- **Matric No:** 24/14703
+- **Department:** CYBER SECURITY
+- **Level:** 300
+- **Course:** CUL-CYB371
+
 ## Fields
 1. Student ID
 2. Department
@@ -19,6 +26,3 @@ This creates `students.csv` with 50 fictional student records (seeded, so result
 ## Files
 - `generate_dataset.py` - Python script that creates the dataset
 - `students.csv` - the generated dataset
-
-## Author
-Michael Gregory Ibizugbe

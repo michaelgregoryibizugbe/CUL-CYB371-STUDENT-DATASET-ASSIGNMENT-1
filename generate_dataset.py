@@ -1,7 +1,8 @@
 """
 CUL-CYB 371 - Data Mining and Data Warehousing
 Assignment Two: Fictional Student Dataset Generator
-Author: Michael Gregory Ibizugbe
+Author: IBIZUGBE MICHAEL GREGORY
+Matric No: 24/14703
 Language: Python 3 (standard library only)
 
 Generates a fictional student dataset with:
